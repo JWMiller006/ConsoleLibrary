@@ -1,0 +1,4 @@
+This folder is for the lists of files that the users have normal access to
+!!! DO NOT MANUALLY EDIT, THE PROGRAM IS CAPABLE FOR SUCH ACTIONS !!!
+
+COPYRIGHT JAMES MILLER Sept 2022

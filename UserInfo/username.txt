@@ -1,0 +1,2 @@
+// This file is meant for storing usernames, and this line isn't meant to be edited or read
+rootuser

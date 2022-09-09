@@ -1,0 +1,7 @@
+Welcome Admin.
+You have requested help. 
+
+These are a list of commands that you have access to as an administrator
+    which are to be excersised with extreme caution. 
+
+Administrator Specific Commands (by category): 

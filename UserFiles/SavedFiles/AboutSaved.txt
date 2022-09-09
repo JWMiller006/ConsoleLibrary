@@ -1,0 +1,4 @@
+This folder is just information and notes saved in this system while it is being worked on from 
+    other classes because it is a nice editing system.  I personally like offline editors, but 
+    that is just me.  This is nice because it allows for linking to other files and other things 
+    like that.  
